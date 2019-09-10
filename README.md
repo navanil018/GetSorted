@@ -10,3 +10,5 @@ Here is the Demo -
 2) Bubble Sort
 
 ![](BubSort.gif)
+
+Working on other sorting algorithms as well.
