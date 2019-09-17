@@ -12,4 +12,8 @@ Here is the Demo -
 
 ![](BubSort.gif)
 
+3) Insertion Sort
+
+![](InsSort.gif)
+
 Working on other sorting algorithms as well.
